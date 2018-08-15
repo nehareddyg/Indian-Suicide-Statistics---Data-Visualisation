@@ -8,7 +8,9 @@ interventions. For this purpose, We used a dataset which contained information a
 2001-2012 by the ​ National Crime Records Bureau (NCRB), Govt of India​.
 
 Refer to the file [Report.pdf](https://github.com/nehareddyg/Indian-Suicide-Statistics---Data-Visualisation/blob/master/Report.pdf) for more details.
+
 The tools that we haved used for data visualization are: D3.js, dimple.js 
+
 For data analysis, we have used R scripts and Tableau.
 
 
